@@ -27,9 +27,9 @@ There is a Search bar for finding Tutorials by title.
 ## Define Routes for Angular 17 CRUD example
 
 There are 3 main routes:
-– /tutorials for tutorials-list component
-– /tutorials/:id for tutorial-details component
-– /add for add-tutorial component
+- /tutorials for tutorials-list component
+- /tutorials/:id for tutorial-details component
+- /add for add-tutorial component
 
 
 ## Project setup
